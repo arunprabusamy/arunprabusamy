@@ -25,9 +25,7 @@ I'm a quality engineering leader with **16+ years of experience** building scala
 
 ### 🌐 Connect & Learn With Me
 
-<p align="left">
-  <a href="https://arunprabusamy.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-2563eb?style=flat-square" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/arunprabu-nallasamy"><img src="https://img.shields.io/badge/in_LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>
-  <a href="https://www.udemy.com/user/arunprabu_nallasamy/"><img src="https://img.shields.io/badge/🎓_Udemy_(12k+_Students)-A435F0?style=flat-square" alt="Udemy" /></a>
-  <a href="mailto:aaares1@gmail.com"><img src="https://img.shields.io/badge/✉️_Email_Me-EA4335?style=flat-square" alt="Email" /></a>
-</p>
+* 🌍 **Portfolio:** [arunprabusamy.github.io](https://arunprabusamy.github.io/)
+* 💼 **LinkedIn:** [linkedin.com/in/arunprabu-nallasamy](https://www.linkedin.com/in/arunprabu-nallasamy)
+* 🎓 **Udemy (12,000+ Students):** [udemy.com/user/arunprabu_nallasamy](https://www.udemy.com/user/arunprabu_nallasamy/)
+* ✉️ **Email:** [aaares1@gmail.com](mailto:aaares1@gmail.com)
