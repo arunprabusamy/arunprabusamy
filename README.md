@@ -1,4 +1,4 @@
-# Hi there, I'm Arunprabu Nallasamy 👋
+Arunprabu Nallasamy
 
 **Senior Software Test Engineer | AI-Driven QA | Online Instructor**  
 📍 Amsterdam, Netherlands
